@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/a15b8baf-2d22-434a-adda-7c900efe2792)# SemaforoInteligente
 Semaforo Inteligente de um cruzamento com travessia, com buzzer para deficientes visuais, display de 7 segmentos com contador e outras tecnologias.
 
 
