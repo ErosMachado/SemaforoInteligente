@@ -1,0 +1,61 @@
+# Arquivos de objetos
+*.o
+
+# Binários executáveis
+*.exe
+*.out
+*.a
+*.so
+
+# Diretórios de build
+/build/
+/bin/
+/obj/
+/Debug/
+/Release/
+
+# Arquivos de depuração
+*.log
+
+# Arquivos temporários ou de backup
+*.swp
+*.tmp
+*.bak
+*.old
+*.orig
+
+# Arquivos gerados pelo editor ou IDE
+*.d
+*.dSYM/
+*.vcxproj
+*.vcxproj.*
+*.code-workspace
+.idea/
+.vscode/
+*.cproject
+*.project
+*.settings/
+*.suo
+*.user
+*.ncb
+*.opt
+*.plist
+
+# Makefile gerado
+Makefile.in
+autom4te.cache/
+*.deps
+*.idb
+*.pdb
+
+# Arquivos de cobertura de código
+*.gcda
+*.gcno
+*.gcov
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de compiladores específicos
+*.stackdump
